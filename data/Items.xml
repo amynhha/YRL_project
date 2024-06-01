@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <code>Z326</code>
+    <type>P</type>
+    <name>Nokia</name>
+    <base cost>456.19</base cost>
+  </row>
+  <row>
+    <code>F130</code>
+    <type>P</type>
+    <name>Huawei</name>
+    <base cost>1957.47</base cost>
+  </row>
+  <row>
+    <code>C068</code>
+    <type>P</type>
+    <name>Nokia</name>
+    <base cost>648.51</base cost>
+  </row>
+  <row>
+    <code>J720</code>
+    <type>V</type>
+    <name>Motorola</name>
+    <base cost>1487.43</base cost>
+  </row>
+  <row>
+    <code>B692</code>
+    <type>V</type>
+    <name>OnePlus</name>
+    <base cost>880.69</base cost>
+  </row>
+  <row>
+    <code>T073</code>
+    <type>P</type>
+    <name>Google Pixel</name>
+    <base cost>612.57</base cost>
+  </row>
+  <row>
+    <code>I440</code>
+    <type>P</type>
+    <name>OnePlus</name>
+    <base cost>536.04</base cost>
+  </row>
+  <row>
+    <code>R779</code>
+    <type>D</type>
+    <name>iPhone</name>
+    <base cost>670.31</base cost>
+  </row>
+  <row>
+    <code>Q671</code>
+    <type>P</type>
+    <name>Samsung Galaxy</name>
+    <base cost>1344.65</base cost>
+  </row>
+  <row>
+    <code>J548</code>
+    <type>D</type>
+    <name>Sony Xperia</name>
+    <base cost>337.71</base cost>
+  </row>
+</root>

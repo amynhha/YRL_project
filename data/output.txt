@@ -1,0 +1,114 @@
++----------------------------------------------------------------------------------------+
+| Summary Report - By Total                                                              |
++----------------------------------------------------------------------------------------+
+Invoice #  Store      Customer                       Num Items          Tax       Total
+s020       2Vkvu9     Blethin, Shaughn               5          $     62.46 $   1085.15
+s021       6vSlJO     Cant, Sigfrid                  3          $      4.03 $    608.40
+s022       SA0RBL     Sturman, Quincey               2          $     45.40 $    743.91
++----------------------------------------------------------------------------------------+
+                                                     10         $    111.89 $   2437.46
+
++----------------------------------------------------------------+
+| Store Sales Summary Report                                     |
++----------------------------------------------------------------+
+Store      Manager                        # Sales    Grand Total  
+2Vkvu9     Hartrick, Woodie               1          $   1085.15
+3gNq2V     Circuit, Wiatt                 0          $      0.00
+551zN0     Klosser, Wang                  0          $      0.00
+6uTq7d     Heddy, Kelly                   0          $      0.00
+6vSlJO     Hartrick, Woodie               1          $    608.40
+8GM611     Circuit, Wiatt                 0          $      0.00
+LNvL36     Heddy, Kelly                   0          $      0.00
+Op9m2K     de Cullip, Chastity            0          $      0.00
+SA0RBL     Klosser, Wang                  1          $    743.91
+ht7P33     de Cullip, Chastity            0          $      0.00
++----------------------------------------------------------------+
+                                          3          $   2437.46
+
+Sale     #s022
+Store    #SA0RBL
+Date      2023-10-18
+Customer: 
+Sturman, Quincey (49a27ccb-ebf1-f6c2-8b79-57e4afb8f4fa)
+	[qsturman7@ed.gov]
+	788 Northfield Dr
+	Portland OR 67491
+
+Sales Person: 
+de Cullip, Chastity (d6014cb1-f965-d3d0-df2d-c6f0e3bbdddb)
+	[cdecullip2@webmd.com]
+	315 N Randy Ave
+	Huntington WV 03080
+
+Items (2)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+Nokia (C068)
+                                                             $     42.15 $    648.51
+Unlimited Daily (J720) - Voice 402-472-9643
+	30 days @ $50.00/30 day period
+                                                             $      3.25 $     50.00
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                   Subtotals $     45.40 $    698.51
+                                                 Grand Total             $    743.91
+Sale     #s021
+Store    #6vSlJO
+Date      2023-11-16
+Customer: 
+Cant, Sigfrid (246eedfa-f948-98fd-b9ac-bd78f89ca94d)
+	[scant8@netlog.com]
+	1779 Macpherson Ave
+	Cincinnati OH 69091
+
+Sales Person: 
+Circuit, Wiatt (b0151d4b-cd55-ae8c-3f98-ae0cf9ed44cf)
+	[wcircuit3@bizjournals.com]
+	99 Reinke Dr
+	Corpus Christi TX 93436
+
+Items (3)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+Huawei (F130) - Lease for 6 months
+                                                             $      0.00 $    489.37
+Screen Repair (I440) - Served by Heddy, Kelly
+	2.00 hours @ $50.00/hour
+                                                             $      3.50 $    100.00
+Delivery (Q671) - Served by Give, Tania
+	0.50 hours @ $30.00/hour
+                                                             $      0.53 $     15.00
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                   Subtotals $      4.03 $    604.37
+                                                 Grand Total             $    608.40
+Sale     #s020
+Store    #2Vkvu9
+Date      2023-12-07
+Customer: 
+Blethin, Shaughn (00e75c60-c4db-4f83-143c-ea916bc579fc)
+	[sblethin9@ow.ly]
+	47 Havey St
+	Irvine CA 17796
+
+Sales Person: 
+Northover, Henry (2e7bab70-7e1b-cfc6-4cb4-58f0b86d2d1f)
+	[hnorthover6@twitter.com]
+	1980 Dahle Ave
+	Washington DC 20780
+
+Items (5)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+Nokia (Z326)
+                                                             $     29.65 $    456.19
+Unlimited talk/300 Text (B692) - Voice 317-608-4562
+	150 days @ $70.00/30 day period
+                                                             $     22.75 $    350.00
+Router Install (T073) - Served by Heddy, Kelly
+	1.50 hours @ $61.50/hour
+                                                             $      3.23 $     92.25
+5G Deluxe (R779) - Data
+	50.00 GB @ $1.99/GB
+                                                             $      5.47 $     99.50
+4G Basic (J548) - Data
+	25.00 GB @ $0.99/GB
+                                                             $      1.36 $     24.75
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                   Subtotals $     62.46 $   1022.69
+                                                 Grand Total             $   1085.15

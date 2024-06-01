@@ -1,0 +1,4 @@
+saleCode,storeCode,customerUUID,salesPersonUUID,date
+s001,96f2cf,a74cc7d9-7ab5-47b8-84cd-9a9205f7ffe7,80ff9b2b-715a-4833-b56a-e81a987e0ac8,2024-02-11
+s002,73668b,65405595-a97d-4939-adf4-71dcc2ff7b3d,961b7c38-6c9b-463c-8a8d-a784fd0afd9c,2024-01-01
+s003,96f2cf,d2e84b16-b74e-4c28-90fc-585a3ec2a35e,80ff9b2b-715a-4833-b56a-e81a987e0ac8,2023-12-20

@@ -1,0 +1,172 @@
+[
+ {
+   "storeCode": "2Vkvu9",
+   "manager": {
+     "uuid": "a6ce8f4b-cd3b-a5da-41e4-745cdfc58f98",
+     "firstName": "Woodie",
+     "lastName": "Hartrick",
+     "street": "Daystar",
+     "city": "Carol Stream",
+     "state": "IL",
+     "zip": 24474,
+     "email": "whartrick0@nasa.gov"
+   },
+   "street": "Northwestern",
+   "city": "Des Moines",
+   "state": "IA",
+   "zip": 90458
+ },
+ {
+   "storeCode": "6vSlJO",
+   "manager": {
+     "uuid": "a6ce8f4b-cd3b-a5da-41e4-745cdfc58f98",
+     "firstName": "Woodie",
+     "lastName": "Hartrick",
+     "street": "Daystar",
+     "city": "Carol Stream",
+     "state": "IL",
+     "zip": 24474,
+     "email": "whartrick0@nasa.gov"
+   },
+   "street": "Pleasure",
+   "city": "Montgomery",
+   "state": "AL",
+   "zip": 55070
+ },
+ {
+   "storeCode": "SA0RBL",
+   "manager": {
+     "uuid": "b68a094a-9303-9aca-0bc6-9780a86e0688",
+     "firstName": "Wang",
+     "lastName": "Klosser",
+     "street": "Carey",
+     "city": "Mobile",
+     "state": "AL",
+     "zip": 95757,
+     "email": "wklosser1@dailymotion.com"
+   },
+   "street": "Northland",
+   "city": "Davenport",
+   "state": "IA",
+   "zip": 6307
+ },
+ {
+   "storeCode": "551zN0",
+   "manager": {
+     "uuid": "b68a094a-9303-9aca-0bc6-9780a86e0688",
+     "firstName": "Wang",
+     "lastName": "Klosser",
+     "street": "Carey",
+     "city": "Mobile",
+     "state": "AL",
+     "zip": 95757,
+     "email": "wklosser1@dailymotion.com"
+   },
+   "street": "Duke",
+   "city": "Merrifield",
+   "state": "VA",
+   "zip": 75104
+ },
+ {
+   "storeCode": "ht7P33",
+   "manager": {
+     "uuid": "d6014cb1-f965-d3d0-df2d-c6f0e3bbdddb",
+     "firstName": "Chastity",
+     "lastName": "de Cullip",
+     "street": "Randy",
+     "city": "Huntington",
+     "state": "WV",
+     "zip": 3080,
+     "email": "cdecullip2@webmd.com"
+   },
+   "street": "Kingsford",
+   "city": "El Paso",
+   "state": "TX",
+   "zip": 56415
+ },
+ {
+   "storeCode": "Op9m2K",
+   "manager": {
+     "uuid": "d6014cb1-f965-d3d0-df2d-c6f0e3bbdddb",
+     "firstName": "Chastity",
+     "lastName": "de Cullip",
+     "street": "Randy",
+     "city": "Huntington",
+     "state": "WV",
+     "zip": 3080,
+     "email": "cdecullip2@webmd.com"
+   },
+   "street": "Mosinee",
+   "city": "Jackson",
+   "state": "MS",
+   "zip": 62351
+ },
+ {
+   "storeCode": "3gNq2V",
+   "manager": {
+     "uuid": "b0151d4b-cd55-ae8c-3f98-ae0cf9ed44cf",
+     "firstName": "Wiatt",
+     "lastName": "Circuit",
+     "street": "Reinke",
+     "city": "Corpus Christi",
+     "state": "TX",
+     "zip": 93436,
+     "email": "wcircuit3@bizjournals.com"
+   },
+   "street": "Melody",
+   "city": "Macon",
+   "state": "GA",
+   "zip": 75141
+ },
+ {
+   "storeCode": "8GM611",
+   "manager": {
+     "uuid": "b0151d4b-cd55-ae8c-3f98-ae0cf9ed44cf",
+     "firstName": "Wiatt",
+     "lastName": "Circuit",
+     "street": "Reinke",
+     "city": "Corpus Christi",
+     "state": "TX",
+     "zip": 93436,
+     "email": "wcircuit3@bizjournals.com"
+   },
+   "street": "Chive",
+   "city": "San Jose",
+   "state": "CA",
+   "zip": 71655
+ },
+ {
+   "storeCode": "LNvL36",
+   "manager": {
+     "uuid": "4fc8ce37-a58c-402a-dda8-4dd9bf1dd7b1",
+     "firstName": "Kelly",
+     "lastName": "Heddy",
+     "street": "Wayridge",
+     "city": "Dallas",
+     "state": "TX",
+     "zip": 89179,
+     "email": "kheddy4@blog.com"
+   },
+   "street": "Debra",
+   "city": "Waterloo",
+   "state": "IA",
+   "zip": 9362
+ },
+ {
+   "storeCode": "6uTq7d",
+   "manager": {
+     "uuid": "4fc8ce37-a58c-402a-dda8-4dd9bf1dd7b1",
+     "firstName": "Kelly",
+     "lastName": "Heddy",
+     "street": "Wayridge",
+     "city": "Dallas",
+     "state": "TX",
+     "zip": 89179,
+     "email": "kheddy4@blog.com"
+   },
+   "street": "Menomonie",
+   "city": "Fresno",
+   "state": "CA",
+   "zip": 3949
+ }
+]

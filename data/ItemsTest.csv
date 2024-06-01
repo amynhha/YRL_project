@@ -1,0 +1,11 @@
+code,type,name,base cost
+e001,P,iPhone 11,1200
+e002,P,Samsung Galaxy A21,99.99
+e003,P,iPhone 11 hardcase,34.95
+s001,S,Screen Repair,75.50
+s002,S,Router Install,120.99
+s003,S,Delivery,59.99
+p001,D,5G Deluxe,1.99
+p002,D,4G Basic,0.43
+p003,V,Unlimited Daily,50
+p004,V,Unlimited talk/300 Text,70

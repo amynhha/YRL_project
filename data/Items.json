@@ -1,0 +1,62 @@
+[
+ {
+   "code": "Z326",
+   "type": "P",
+   "name": "Nokia",
+   "base cost": 456.19
+ },
+ {
+   "code": "F130",
+   "type": "P",
+   "name": "Huawei",
+   "base cost": 1957.47
+ },
+ {
+   "code": "C068",
+   "type": "P",
+   "name": "Nokia",
+   "base cost": 648.51
+ },
+ {
+   "code": "J720",
+   "type": "V",
+   "name": "Motorola",
+   "base cost": 1487.43
+ },
+ {
+   "code": "B692",
+   "type": "V",
+   "name": "OnePlus",
+   "base cost": 880.69
+ },
+ {
+   "code": "T073",
+   "type": "P",
+   "name": "Google Pixel",
+   "base cost": 612.57
+ },
+ {
+   "code": "I440",
+   "type": "P",
+   "name": "OnePlus",
+   "base cost": 536.04
+ },
+ {
+   "code": "R779",
+   "type": "D",
+   "name": "iPhone",
+   "base cost": 670.31
+ },
+ {
+   "code": "Q671",
+   "type": "P",
+   "name": "Samsung Galaxy",
+   "base cost": 1344.65
+ },
+ {
+   "code": "J548",
+   "type": "D",
+   "name": "Sony Xperia",
+   "base cost": 337.71
+ }
+]
